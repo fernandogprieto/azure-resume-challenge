@@ -1,1 +1,1 @@
-# cloud-resume-challenge-azure
+# Azure-resume-challenge
